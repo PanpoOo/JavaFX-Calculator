@@ -191,7 +191,7 @@ public class Calculator extends Application {
 
         Scene scene = new Scene(layout, 300, 400);
         layout.setStyle("-fx-background-color: #000000;");
-        primaryStage.setTitle("Calculator Step 4");
+        primaryStage.setTitle("Calculator ");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
